@@ -14,12 +14,12 @@ The pipeline relies on a single ensemble of three trained customized ResNet-50 m
 
 ## Content
 - **run_example.py**: main script to run an example of the application of the cell detector.
-- **model/**: package of the inference ensemble model (contains various customized modules and weight checkpoints).
+- **model/**: package of the inference ensemble model (contains various customized pytorch modules and checkpoints).
 - **example/000.tif**: example image used in the example script (can be copied from the public github repository of the OCELOT2023 Challenge: https://github.com/lunit-io/ocelot23algo).
 
 
 ## Requirements
-This inference pipeline was integrated in a docker container, tested and submitted under the following configuration
+This inference pipeline was integrated in a docker container, tested and submitted under the following configuration:
 - pytorch:1.8.1-cuda11.1-cudnn8
 - numpy:1.22.3
 - scikit-image:0.19.3
