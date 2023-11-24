@@ -19,7 +19,7 @@ Vision and Pattern Recognition (CVPR) (2023)
 ## Content
 - **run_example.py**: main script to run an example of the application of the cell detector.
 - **model/**: package of the inference ensemble model (contains various customized modules and weight checkpoints).
-- **example/000.tif**: image used in the example script (copied from the public github repository of the OCELOT2023 Challenge: https://github.com/lunit-io/ocelot23algo).
+- **example/000.tif**: example image used in the example script (can be copied from the public github repository of the OCELOT2023 Challenge: https://github.com/lunit-io/ocelot23algo).
 
 
 ## Requirements
