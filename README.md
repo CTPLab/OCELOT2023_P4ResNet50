@@ -7,13 +7,9 @@ The pipeline relies on a single ensemble of three trained customized ResNet-50 m
 ## References
 \[1\] Lafarge, M.W and Koelzer, V.H., *Detecting Cells in Histopathology Images with a ResNet Ensemble Model.* [accepted manuscript] In: Proceedings of the OCELOT2023 Challenge (2023).
 
-\[2\] *OCELOT 2023: Cell detection from cell-tissue interaction (2023)*, https://
-ocelot2023.grand-challenge.org/
+\[2\] *OCELOT 2023: Cell detection from cell-tissue interaction (2023)*, https://ocelot2023.grand-challenge.org/
 
-\[3\] Ryu, J., Puche, A.V., Shin, J., Park, S., Brattoli, B., Lee, J., Jung, W., Cho, S.I.,
-Paeng, K., Ock, C.Y., Yoo, D., Pereira, S.: *Ocelot: Overlapped cell on tissue dataset
-for histopathology.* In: Proceedings of the IEEE/CVF Conference on Computer
-Vision and Pattern Recognition (CVPR) (2023)
+\[3\] Ryu, J., Puche, A.V., Shin, J., Park, S., Brattoli, B., Lee, J., Jung, W., Cho, S.I., Paeng, K., Ock, C.Y., Yoo, D., Pereira, S.: *Ocelot: Overlapped cell on tissue dataset for histopathology.* In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (2023)
 
 
 ## Content
